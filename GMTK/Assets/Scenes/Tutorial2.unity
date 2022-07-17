@@ -150,15 +150,15 @@ RectTransform:
   m_GameObject: {fileID: 281035271}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 4, y: 4, z: 1}
   m_Children: []
   m_Father: {fileID: 509723944}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6, y: -19}
-  m_SizeDelta: {x: 567.6133, y: 144.89}
+  m_AnchoredPosition: {x: 0, y: -61.252}
+  m_SizeDelta: {x: 567.6133, y: 162.5159}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &281035273
 MonoBehaviour:
@@ -194,11 +194,11 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: To move yourself, the dice, use the arrow keys or WASD. The walls are made
-    of a deadly cheeto plant, touching it will reset you to your last checkpoint.
-    Each checkpoint will mark the end of a level. Every time you finish a level,
-    you speed will be randomized by a dice. You also have to end a level on a sprite
-    (number) which is randomly determined for you by dice. Every few seconds, your
-    number will change. Press S to Start
+    of a deadly deadly force, and touching it, while not killing you, will reset
+    you to your last checkpoint. Each checkpoint will mark the end of a level. Every
+    time you finish a level, you speed will be randomized by a dice. You also have
+    to end each level on the number one. Your number will be randomly determined
+    for you every time you move. Good Luck! Press S to Start!
 --- !u!222 &281035274
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -336,14 +336,14 @@ RectTransform:
   m_GameObject: {fileID: 1165629217}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 4, y: 4, z: 1}
   m_Children: []
   m_Father: {fileID: 509723944}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5826265, y: 0.5}
-  m_AnchoredPosition: {x: -24.493, y: 35.573}
+  m_AnchoredPosition: {x: 220, y: 232}
   m_SizeDelta: {x: 92.8998, y: 101.14}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1165629219
