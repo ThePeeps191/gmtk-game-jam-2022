@@ -197,7 +197,7 @@ MonoBehaviour:
     of a deadly cheeto plant, touching it will reset you to your last checkpoint.
     Each checkpoint will mark the end of a level. Every time you finish a level,
     you speed will be randomized by a dice. You also have to end a level on a sprite
-    (number) which is randomly determined for you by dice. Every few seconds, your
+    (number) which is randomly determined for you by dice. Every time you move, your
     number will change. Press S to Start
 --- !u!222 &281035274
 CanvasRenderer:
